@@ -1,7 +1,7 @@
 # vibe-me
 
 Vença seus maus momentos usando nossa incrível coleção de memes, projete você em situações engraçadas, ou com vibe de alegria.
-[ACESSAR WEBSITE DO PROJETO](https://vibeme.joaovitor.gq/)
+[ACESSAR WEBSITE DO PROJETO](https://vibeme.fluxuss.ga/)
 
 ![VIBE-ME](https://raw.githubusercontent.com/keowu/vibeme/837f5a059769d211475ffefa9dea149d715732a0/cdn/imgs/logo.svg)
 
